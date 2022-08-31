@@ -4,10 +4,13 @@ RENCANA WPU
 - JAVASCRIPT
   *ES6
   *Framework Javascript
-   ^Angular
+   ^Vue
    ^React
+- Struktur Data Dasar
 - GIT
 - Interviews
 - Vlog
-- PHP Networks
+- PHP Frameworks
    ^Laravel
+- Python
+
